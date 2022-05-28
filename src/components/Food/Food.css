@@ -1,0 +1,19 @@
+
+.food-item {
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+}
+.button-click{
+    width:100%;
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
+    border: none;
+    background-color: purple;
+    cursor: pointer;
+    padding: 10px 0px;
+}
+.food-info{
+    padding:20px;
+}
